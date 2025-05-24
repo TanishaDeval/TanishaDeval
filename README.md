@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Tanisha Deval 👋
 
-<!--
-**TanishaDeval/TanishaDeval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 
+💻 Currently learning: MySQL, C Programming, Data Structures  
+📚 Passionate about simplifying complex concepts and sharing knowledge  
+🌱 Exploring database design and c language.
 
-Here are some ideas to get you started:
+## 📌 Projects I'm working on:
+- MySQL Practice Scripts
+- C Programming Exercises
+- Data Structures Implementations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect:
+-[LinkedIn]
+https://www.linkedin.com/in/tanisha-deval-59952527b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- [GitHub](https://github.com/TanishaDeval)
+
+“Code, Learn, Share, Repeat.”
