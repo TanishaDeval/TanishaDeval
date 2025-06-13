@@ -47,11 +47,11 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanisha%20Deval-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanisha-deval-59952527b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanisha%20Deval-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit-mishra-mr-robot?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-TanishaDeval-181717?style=for-the-badge&logo=github)](https://github.com/TanishaDeval)
 [![Email](https://img.shields.io/badge/Email-tanishadeval%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tanishadeval@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@Tanisha_Deval-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Tanisha_Deval)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-TanishaDeval-red?style=for-the-badge&logo=youtube)](https://youtube.com/@TanishaDeval)
+[![Telegram](https://img.shields.io/badge/Telegram-@Tanisha_Deval-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/telegram_link)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-TanishaDeval-red?style=for-the-badge&logo=youtube)](https://youtube.com)
 
 ---
 
