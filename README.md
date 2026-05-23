@@ -1,14 +1,14 @@
 # Hi👋,I'm Tanisha Deval 
 
 🎓 BCA Final Year Student
-💻 Currently learning: 🐍Python basics ,OOP 
+💻 Currently learning: 🐍Python basics,OOP 
 💻Building Projects
 
 ## 💻 Skills
 -Python Programming - Basic + OOP
 
 ## 📌 Projects
- #Basic Programs:- 
+💻Basic Programs:- 
 - Shopping Cart
 - Hangman Game
 - Madlibs Game
