@@ -25,6 +25,7 @@
 
 ## 🛠️ Tools 
 -Pycharm
+-PyQt5
 
 ## 📫 Let's Connect:
 -[LinkedIn](https://www.linkedin.com/in/tanisha-deval-59952527b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
