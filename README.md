@@ -1,8 +1,12 @@
 # Hi👋,I'm Tanisha Deval 
 
 🎓 BCA Final Year Student
-💻 Currently learning: 🐍Python basics,OOP 
-💻Building Projects
+💻 Currently learning
+-Learning and building projects everyday
+-Uploading daily practice
+-Check out my 100_days_of_code repo
+ 
+
 
 ## 💻 Skills
 -Python Programming - Basic + OOP
@@ -15,6 +19,7 @@
 - Rock-paper-scissor Game
 - Weight Converter
 - Temperature converter
+
 
 
 
